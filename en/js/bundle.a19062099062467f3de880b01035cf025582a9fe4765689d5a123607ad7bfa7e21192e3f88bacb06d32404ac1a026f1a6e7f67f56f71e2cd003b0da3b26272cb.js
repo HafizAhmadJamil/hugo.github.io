@@ -10,7 +10,7 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = '';
-const baseURL = '';
+const baseURL = 'https://hafizahmadjamil.github.io/hugo.github.io';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
