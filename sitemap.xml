@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docker/docker1/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/docker/docker1/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/kubernetes/kube1/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/kubernetes/kube1/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/linux/linux1/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/linux/linux1/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/virtualization/proxmox1/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox1/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/virtualization/proxmox3/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox3/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/about/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/ansible/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/series/ansible/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/categories/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/cloud/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/categories/cloud/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/docker/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/series/docker/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/tags/hugo/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/kubernetes/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/series/kubernetes/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/linux/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/categories/linux/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/post/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/series/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/tags/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/bundle/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/post/bundle/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/virtual-machine/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/categories/virtual-machine/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/virtualization/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/series/virtualization/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cloud-init/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/tags/cloud-init/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cloud-vm/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/tags/cloud-vm/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docker/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/docker/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/kubernetes/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/kubernetes/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/linux/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/linux/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/virtualization/proxmox2/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox2/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/technology/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/categories/technology/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/virtualization/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/tags/virtualization/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/virtualization/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/tags/index/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://hafizahmadjamil.github.io/hugo.github.io/search/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on MIAJ TECH</title>
-    <link>/categories/linux/</link>
+    <link>https://hafizahmadjamil.github.io/hugo.github.io/categories/linux/</link>
     <description>Recent content in Linux on MIAJ TECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2022–2025, MIAJ Tech and the Team.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hafizahmadjamil.github.io/hugo.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo page bundles folder</title>
-      <link>/post/bundle/</link>
+      <link>https://hafizahmadjamil.github.io/hugo.github.io/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/bundle/</guid>
+      <guid>https://hafizahmadjamil.github.io/hugo.github.io/post/bundle/</guid>
       <description>
         
           
