@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud VM on MIAJ TECH</title>
-    <link>https://hafizahmadjamil.github.io/hugo.github.io/tags/cloud-vm/</link>
+    <link>/tags/cloud-vm/</link>
     <description>Recent content in Cloud VM on MIAJ TECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2022–2025, MIAJ Tech and the Team.</copyright>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hafizahmadjamil.github.io/hugo.github.io/tags/cloud-vm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cloud-vm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxmox2</title>
-      <link>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox2/</link>
+      <link>/virtualization/proxmox2/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox2/</guid>
+      <guid>/virtualization/proxmox2/</guid>
       <description>
         
           

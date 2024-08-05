@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIAJ TECH</title>
-    <link>https://hafizahmadjamil.github.io/hugo.github.io/</link>
+    <link>/</link>
     <description>Recent content on MIAJ TECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2022–2025, MIAJ Tech and the Team.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hafizahmadjamil.github.io/hugo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
-      <link>https://hafizahmadjamil.github.io/hugo.github.io/docker/docker1/</link>
+      <link>/docker/docker1/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hafizahmadjamil.github.io/hugo.github.io/docker/docker1/</guid>
+      <guid>/docker/docker1/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Proxmox1</title>
-      <link>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox1/</link>
+      <link>/virtualization/proxmox1/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox1/</guid>
+      <guid>/virtualization/proxmox1/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@ Table of Contents  Overview Practical Example Server Usage A Brief History of Vi
     
     <item>
       <title>Proxmox3</title>
-      <link>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox3/</link>
+      <link>/virtualization/proxmox3/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox3/</guid>
+      <guid>/virtualization/proxmox3/</guid>
       <description>
         
           
@@ -59,10 +59,10 @@ Table of Contents  Automated and Unattended Installations VMware ESX VM Import W
     
     <item>
       <title>Using Hugo page bundles folder</title>
-      <link>https://hafizahmadjamil.github.io/hugo.github.io/post/bundle/</link>
+      <link>/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hafizahmadjamil.github.io/hugo.github.io/post/bundle/</guid>
+      <guid>/post/bundle/</guid>
       <description>
         
           
@@ -75,10 +75,10 @@ Table of Contents  Automated and Unattended Installations VMware ESX VM Import W
     
     <item>
       <title>Proxmox2</title>
-      <link>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox2/</link>
+      <link>/virtualization/proxmox2/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox2/</guid>
+      <guid>/virtualization/proxmox2/</guid>
       <description>
         
           
