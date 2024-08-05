@@ -24,6 +24,38 @@
     </item>
     
     <item>
+      <title>Kubernetes</title>
+      <link>https://hafizahmadjamil.github.io/hugo.github.io/kubernetes/kube1/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hafizahmadjamil.github.io/hugo.github.io/kubernetes/kube1/</guid>
+      <description>
+        
+          
+            Unleashing the Power of Kubernetes: Your Guide to Container Orchestration Magic Table of Contents  What is Kubernetes, Anyway? Why Use Kubernetes? Key Features of Kubernetes  Self-Healing Capabilities Load Balancing Scalability   How Does Kubernetes Work?  Pods Nodes Clusters   Getting Started with Kubernetes The Future of Kubernetes Conclusion: Embrace the Kubernetes Revolution  What is Kubernetes, Anyway? Managing modern applications can feel like juggling ten balls simultaneously.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://hafizahmadjamil.github.io/hugo.github.io/linux/linux1/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hafizahmadjamil.github.io/hugo.github.io/linux/linux1/</guid>
+      <description>
+        
+          
+            Discovering Linux: Your Gateway to a Smarter Computing World Table of Contents  What is Linux and Why Should You Care? The Power of Open Source Why Choose Linux for Your Computer?  Speed and Performance Security at Its Best Customizability Free to Use   An Easy Start with Linux Community Support: The Heart of Linux Conclusion: Embrace the Linux Revolution  What is Linux and Why Should You Care?
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Proxmox1</title>
       <link>https://hafizahmadjamil.github.io/hugo.github.io/virtualization/proxmox1/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
