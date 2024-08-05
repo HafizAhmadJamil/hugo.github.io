@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on MIAJ TECH</title>
+    <link>/categories/technology/</link>
+    <description>Recent content in Technology on MIAJ TECH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2022–2025, MIAJ Tech and the Team.</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxmox2</title>
+      <link>/virtualization/proxmox2/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/virtualization/proxmox2/</guid>
+      <description>
+        
+          
+            Discover What&#39;s New in Proxmox 8.2: Features and Download Information Explore the exciting new features of Proxmox 8.2, including enhancements in automated installations, Cloudinit templates, backups, storage, and networking.
+Table of Contents  Automated and Unattended Installations VMware ESX VM Import Wizard nftables Firewall LXC Device Passthrough Advanced Backup Settings Extended ACME-Enabled CAs User Interface Enhancements Core Technology Updates  Proxmox 8.2 New Features Automated and Unattended Installations Streamline your setup process with new automated and unattended installation options.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

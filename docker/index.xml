@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on MIAJ TECH</title>
+    <link>/docker/</link>
+    <description>Recent content in Docker on MIAJ TECH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2022–2025, MIAJ Tech and the Team.</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>/docker/docker1/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docker/docker1/</guid>
+      <description>
+        
+          
+            Docker: The Ultimate Toolbox for Developers Table of Contents  What is Docker and Why Should You Care? How Does Docker Work? The Benefits of Using Docker  Consistency Across Environments Easier Collaboration Scalability Made Simple   How to Get Started with Docker  Installing Docker Creating Your First Container Exploring Docker Hub   Common Misconceptions About Docker Conclusion  What is Docker and Why Should You Care? Imagine trying to build a house without the right tools.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
